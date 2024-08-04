@@ -1,0 +1,5 @@
+{
+    "name": "@poc-example/utils",
+    "type": "module",
+    "exports": "./src/index.ts"
+  }

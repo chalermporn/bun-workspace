@@ -1,0 +1,7 @@
+{
+    "name": "@poc-example/client",
+    "type": "module",
+    "dependencies": {
+      "@poc-example/utils": "workspace:*"
+    }
+  }
